@@ -32,12 +32,14 @@ style_weight = 1e-2
 ![image](https://user-images.githubusercontent.com/86003669/202875752-0ecc12ef-5e5f-4fc5-88b6-348a9c3da348.png)
 
 
-Lr= 0.001 (Extremely small Lr can lead to local minima problems)
+(Caution: Extremely small Lr can lead to local minima problems)
+Lr= 0.001 
 Beta_1 = 0.99
 Epsilon=1e-1
 Epochs=50
 content_weight = 1e-4
 style_weight = 1
+
 ![image](https://user-images.githubusercontent.com/86003669/202875762-4c22052d-ccc6-4869-b644-0c7647b941aa.png)
 
 
