@@ -15,7 +15,9 @@ Style loss: let ~a and ~x be the original image and the image that is generated 
 ![image](https://user-images.githubusercontent.com/86003669/202875714-3552cece-1d4b-4ef4-aaa0-06a874923e87.png)
 
 Total loss:
+
 ![image](https://user-images.githubusercontent.com/86003669/202875719-085a9520-5610-4a49-a855-04d854a3e938.png)
+
 α = weight for content_loss
 β = weight for style_loss
 
