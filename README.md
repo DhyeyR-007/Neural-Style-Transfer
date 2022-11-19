@@ -80,6 +80,26 @@ style_weight = 1
 
 Similarly, you can experiment with various hyperparameters to get a more realistic style transferred image which over substantial training or accurate hyperparameter selection can lead to an accurate image style transfer as was shown by the result of “Method1_StyleTransfer.ipynb”.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Outputs from Method1(direct style transfer):
+
+Input:
+
+![image](https://user-images.githubusercontent.com/86003669/202875892-f2edafd9-5442-473d-bdd9-ce3e050a89bf.png)
 
 
-Reference: https://arxiv.org/pdf/1508.06576.pdf
+
+Output:
+
+![image](https://user-images.githubusercontent.com/86003669/202875904-8c9635ff-2872-46d5-9403-8d782ef7184c.png)
+
+
+Style Transfer Image:
+
+![image](https://user-images.githubusercontent.com/86003669/202875916-ec0a4123-dd31-4391-87c9-8c74a9818de8.png)
+
+
+
+
+_Reference: https://arxiv.org/pdf/1508.06576.pdf_
